@@ -19,8 +19,8 @@
   },
   "dependencies": {
     "electron": "^12.0.0",
-    "gatsby": "^2.32.3",
-    "gatsby-ipfs-web-wallet": "^1.23.0",
+    "gatsby": "^5.13.2",
+    "gatsby-ipfs-web-wallet": "^1.29.0",
     "gatsby-plugin-bch-tx-history": "^1.1.3",
     "ipfs": "^0.54.2",
     "ipfs-coord": "^3.2.0"
@@ -33,13 +33,13 @@
     "url": "https://github.com/Permissionless-Software-Foundation/chat.fullstack.cash/issues"
   },
   "devDependencies": {
-    "eslint": "^7.21.0",
+    "eslint": "^9.0.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-config-standard": "^16.0.2",
     "eslint-plugin-node": "^11.1.0",
     "eslint-plugin-prettier": "^3.3.1",
     "eslint-plugin-standard": "^5.0.0",
-    "semantic-release": "^17.4.2",
+    "semantic-release": "^21.0.0",
     "standard": "^16.0.3"
   },
   "release": {
